@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<eventgroupdef>
+<!-- Ship TEST -->
+	<!-- eventspawn <pos x="4252.39990234375" z="4853.7001953125" a="0" y="10.0" group="Ship_test"/> -->
+	<group name="Ship_test">
+		<child type="Land_Ship_Big_BackA" deloot="0" lootmax="0" lootmin="0" x="0.000" z="0.000" a="0.000" y="0.000"/>
+		<child type="Land_Ship_Big_FrontA" deloot="0" lootmax="0" lootmin="0" x="58.800" z="3.550" a="0.000" y="0.100"/>
+		<child type="Land_Ship_Big_FrontB" deloot="0" lootmax="0" lootmin="0" x="38.900" z="1.250" a="0.000" y="-1.400"/>
+		<child type="Land_Ship_Big_BackB" deloot="0" lootmax="0" lootmin="0" x="-19.600" z="0.600" a="0.000" y="-1.500"/>
+		<child type="Land_Ship_Big_Castle" deloot="0" lootmax="0" lootmin="0" x="-8.364" z="0.406" a="0.000" y="8.872"/>
+	</group>
+<!-- Ambulance -->
+	<!-- eventspawn <pos x="4699.3994" z="4342.3188" a="0" y="33.3279" group="Ambulance_Amnesia"/> -->
+	<group name="Ambulance_Amnesia">
+		<child type="DB_Static_Ambulance_Wreck" deloot="0" lootmax="7" lootmin="5" x="0.000" z="0.000" a="310.759" y="0.000"/>
+		<child type="StaticObj_Roadblock_Wood_Small" deloot="0" lootmax="0" lootmin="0" x="-7.409" z="8.209" a="176.386" y="-0.688"/>
+		<child type="StaticObj_Roadblock_Wood_Small" deloot="0" lootmax="0" lootmin="0" x="15.425" z="-11.583" a="98.907" y="-0.688"/>
+		<child type="Land_Wreck_hb01_aban1_police_DE" deloot="0" lootmax="3" lootmin="2" x="-13.044" z="11.413" a="120.557" y="-0.266"/>
+		<child type="StaticObj_Furniture_hospital_transport_bed" deloot="0" lootmax="0" lootmin="0" x="-7.003" z="4.435" a="114.066" y="-1.328"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="-10.507" z="8.200" a="0.000" y="-0.772"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="15.168" z="-14.166" a="275.476" y="-0.772"/>
+		<child type="StaticObj_Forest_HumanSkeleton" deloot="0" lootmax="0" lootmin="0" x="-7.540" z="5.991" a="261.815" y="-1.288"/>
+		<child type="Land_Wreck_Volha_Grey" deloot="0" lootmax="3" lootmin="2" x="10.613" z="-9.127" a="338.917" y="-0.591"/>
+		<child type="Land_Wreck_Lada_Green" deloot="0" lootmax="3" lootmin="2" x="7.623" z="-6.962" a="299.055" y="-0.666"/>
+	</group>
+	<!-- eventspawn <pos x="3754.6008" z="4593.9843" a="0" y="5.6279" group="Ambulance_HarborField"/> -->
+	<group name="Ambulance_HarborField">
+		<child type="DB_Static_Ambulance_Wreck" deloot="0" lootmax="7" lootmin="5" x="0.000" z="0.000" a="47.648" y="0.000"/>
+		<child type="Land_DB_DeadBodyCovered" deloot="0" lootmax="0" lootmin="0" x="4.696" z="4.992" a="321.421" y="-1.188"/>
+		<child type="Land_Wreck_hb01_aban1_police_DE" deloot="0" lootmax="3" lootmin="2" x="8.969" z="8.646" a="27.080" y="-0.266"/>
+		<child type="StaticObj_Furniture_hospital_transport_bed" deloot="0" lootmax="0" lootmin="0" x="5.327" z="3.665" a="225.231" y="-1.328"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="-5.158" z="-2.732" a="226.565" y="-0.772"/>
+		<child type="StaticObj_Roadblock_Wood_Small" deloot="0" lootmax="0" lootmin="0" x="-3.207" z="-4.407" a="30.869" y="-0.688"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="10.441" z="12.500" a="228.551" y="-0.772"/>
+		<child type="StaticObj_Roadblock_Wood_Small" deloot="0" lootmax="0" lootmin="0" x="12.177" z="10.167" a="75.617" y="-0.688"/>
+	</group>
+	<!-- eventspawn <pos x="4798.9829" z="5316.6875" a="0" y="2.8278" group="Ambulance_Zavodny"/> -->
+	<group name="Ambulance_Zavodny">
+		<child type="DB_Static_Ambulance_Wreck" deloot="0" lootmax="7" lootmin="5" x="0.000" z="0.000" a="178.687" y="0.000"/>
+		<child type="Land_DB_DeadBodyCovered" deloot="0" lootmax="0" lootmin="0" x="0.683" z="-6.819" a="92.460" y="-1.188"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="-3.443" z="-7.994" a="268.472" y="-0.771"/>
+		<child type="Land_Wreck_hb01_aban1_police_DE" deloot="0" lootmax="3" lootmin="2" x="0.634" z="-12.441" a="158.119" y="-0.266"/>
+		<child type="StaticObj_Furniture_hospital_transport_bed" deloot="0" lootmax="0" lootmin="0" x="-0.733" z="-6.423" a="356.270" y="-1.328"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="-3.346" z="-12.729" a="268.472" y="-0.772"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="-3.793" z="2.197" a="268.472" y="-0.771"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="-0.272" z="5.987" a="357.604" y="-0.771"/>
+		<child type="StaticObj_Roadblock_Wood_Small" deloot="0" lootmax="0" lootmin="0" x="-3.447" z="5.580" a="137.287" y="-0.688"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="0.166" z="-16.657" a="359.591" y="-0.771"/>
+		<child type="StaticObj_Roadblock_Wood_Small" deloot="0" lootmax="0" lootmin="0" x="-2.811" z="-15.807" a="206.656" y="-0.688"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="-3.658" z="-2.693" a="268.472" y="-0.771"/>
+	</group>
+	<!-- eventspawn <pos x="3893.2583 z="5951.4184" a="0" y="30.6232" group="Ambulance_Kaminov"/> -->
+	<group name="Ambulance_Kaminov">
+		<child type="DB_Static_Ambulance_Wreck" deloot="0" lootmax="7" lootmin="5" x="0.000" z="0.000" a="359.702" y="0.000"/>
+		<child type="Land_DB_DeadBodyCovered" deloot="0" lootmax="0" lootmin="0" x="-0.562" z="6.833" a="273.475" y="-1.188"/>
+		<child type="Land_Wreck_hb01_aban1_police_DE" deloot="0" lootmax="3" lootmin="2" x="-0.414" z="12.451" a="339.134" y="-0.266"/>
+		<child type="StaticObj_Furniture_hospital_transport_bed" deloot="0" lootmax="0" lootmin="0" x="0.848" z="6.409" a="177.285" y="-1.328"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="0.235" z="-8.991" a="180.606" y="-0.772"/>
+		<child type="StaticObj_Roadblock_Wood_Small" deloot="0" lootmax="0" lootmin="0" x="2.660" z="-8.977" a="1.062" y="-0.688"/>
+		<child type="Land_Wreck_hb01_aban1_police_DE" deloot="0" lootmax="3" lootmin="2" x="0.249" z="-6.401" a="78.117" y="-0.266"/>
+		<child type="StaticObj_Roadblock_Wood_Small" deloot="0" lootmax="0" lootmin="0" x="-2.317" z="-8.984" a="178.616" y="-0.688"/>
+		<child type="StaticObj_Roadblock_Wood_Small" deloot="0" lootmax="0" lootmin="0" x="-2.390" z="17.122" a="178.616" y="-0.688"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="0.162" z="17.114" a="180.606" y="-0.772"/>
+		<child type="StaticObj_Roadblock_Wood_Small" deloot="0" lootmax="0" lootmin="0" x="2.586" z="17.129" a="1.062" y="-0.688"/>
+	</group>
+	<!-- eventspawn <pos x="4406.6020" z="4900.7299" a="0" y="4.9279" group="Ambulance_CapitalCity_01"/> -->
+	<group name="Ambulance_CapitalCity_01">
+		<child type="DB_Static_Ambulance_Wreck" deloot="0" lootmax="7" lootmin="5" x="0.000" z="0.000" a="359.825" y="0.000"/>
+		<child type="StaticObj_Roadblock_Wood_Small" deloot="0" lootmax="0" lootmin="0" x="1.347" z="10.976" a="225.453" y="-0.688"/>
+		<child type="StaticObj_Roadblock_Wood_Small" deloot="0" lootmax="0" lootmin="0" x="1.358" z="-19.246" a="147.972" y="-0.688"/>
+		<child type="Land_Wreck_hb01_aban1_police_DE" deloot="0" lootmax="3" lootmin="2" x="0.076" z="17.334" a="169.623" y="-0.266"/>
+		<child type="StaticObj_Furniture_hospital_transport_bed" deloot="0" lootmax="0" lootmin="0" x="-1.235" z="8.194" a="163.132" y="-1.328"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="-0.690" z="13.308" a="49.066" y="-0.772"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="-0.766" z="-20.741" a="324.542" y="-0.772"/>
+		<child type="StaticObj_Forest_HumanSkeleton" deloot="0" lootmax="0" lootmin="0" x="-0.413" z="9.623" a="310.881" y="-1.288"/>
+		<child type="Land_Wreck_Volha_Grey" deloot="0" lootmax="3" lootmin="2" x="0.056" z="-13.997" a="27.983" y="-0.591"/>
+		<child type="Land_Wreck_Lada_Green" deloot="0" lootmax="3" lootmin="2" x="-0.265" z="-10.321" a="348.121" y="-0.666"/>
+	</group>
+	<!-- eventspawn <pos x="4470.9799" z="4743.5644" a="0" y="4.9280" group="Ambulance_CapitalCity_02"/> -->
+	<group name="Ambulance_CapitalCity_02">
+		<child type="DB_Static_Ambulance_Wreck" deloot="0" lootmax="7" lootmin="5" x="0.000" z="0.000" a="179.614" y="0.000"/>
+		<child type="StaticObj_Roadblock_Wood_Small" deloot="0" lootmax="0" lootmin="0" x="-1.306" z="-10.979" a="45.242" y="-0.688"/>
+		<child type="StaticObj_Roadblock_Wood_Small" deloot="0" lootmax="0" lootmin="0" x="-1.430" z="19.241" a="327.762" y="-0.688"/>
+		<child type="Land_Wreck_hb01_aban1_police_DE" deloot="0" lootmax="3" lootmin="2" x="-0.012" z="-17.333" a="349.412" y="-0.266"/>
+		<child type="StaticObj_Furniture_hospital_transport_bed" deloot="0" lootmax="0" lootmin="0" x="1.263" z="-8.190" a="342.922" y="-1.328"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="0.739" z="-13.303" a="228.855" y="-0.772"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="0.690" z="20.745" a="144.331" y="-0.772"/>
+		<child type="StaticObj_Forest_HumanSkeleton" deloot="0" lootmax="0" lootmin="0" x="0.446" z="-9.623" a="130.670" y="-1.288"/>
+		<child type="Land_Wreck_Volha_Grey" deloot="0" lootmax="3" lootmin="2" x="-0.108" z="13.997" a="207.772" y="-0.591"/>
+		<child type="Land_Wreck_Lada_Green" deloot="0" lootmax="3" lootmin="2" x="0.229" z="10.322" a="167.910" y="-0.666"/>
+	</group>
+	<!-- eventspawn <pos x="4425.2080" z="4782.8813" a="0" y="4.9279" group="Ambulance_CapitalCity_03"/> -->
+	<group name="Ambulance_CapitalCity_03">
+		<child type="DB_Static_Ambulance_Wreck" deloot="0" lootmax="7" lootmin="5" x="0.000" z="0.000" a="86.227" y="0.000"/>
+		<child type="Land_DB_DeadBodyCovered" deloot="0" lootmax="0" lootmin="0" x="6.785" z="0.971" a="0.000" y="-1.188"/>
+		<child type="Land_Wreck_hb01_aban1_police_DE" deloot="0" lootmax="3" lootmin="2" x="13.417" z="0.326" a="65.659" y="-0.266"/>
+		<child type="StaticObj_Furniture_hospital_transport_bed" deloot="0" lootmax="0" lootmin="0" x="6.446" z="-0.462" a="263.810" y="-1.328"/>
+		<child type="StaticObj_Roadblock_Wood_Small" deloot="0" lootmax="0" lootmin="0" x="15.608" z="-1.354" a="135.000" y="-0.688"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="18.026" z="0.947" a="135.000" y="-0.772"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="-8.920" z="1.037" a="45.000" y="-0.772"/>
+		<child type="StaticObj_Roadblock_Wood_Small" deloot="0" lootmax="0" lootmin="0" x="-6.852" z="-1.090" a="45.000" y="-0.688"/>
+	</group>
+	<!-- eventspawn <pos x="4365.2504" z="5009.7124" a="0" y="4.9279" group="Ambulance_CapitalCity_04"/> -->
+	<group name="Ambulance_CapitalCity_04">
+		<child type="DB_Static_Ambulance_Wreck" deloot="0" lootmax="7" lootmin="5" x="0.000" z="0.000" a="316.715" y="0.000"/>
+		<child type="Land_DB_DeadBodyCovered" deloot="0" lootmax="0" lootmin="0" x="-5.069" z="4.615" a="230.489" y="-1.188"/>
+		<child type="Land_Wreck_hb01_aban1_police_DE" deloot="0" lootmax="3" lootmin="2" x="-8.788" z="10.147" a="296.148" y="-0.266"/>
+		<child type="StaticObj_Furniture_hospital_transport_bed" deloot="0" lootmax="0" lootmin="0" x="-3.746" z="5.266" a="134.299" y="-1.328"/>
+		<child type="StaticObj_Roadblock_Wood_Small" deloot="0" lootmax="0" lootmin="0" x="-8.884" z="12.901" a="5.488" y="-0.688"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="-12.200" z="13.309" a="5.488" y="-0.772"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="4.875" z="-7.543" a="275.489" y="-0.772"/>
+		<child type="StaticObj_Roadblock_Wood_Small" deloot="0" lootmax="0" lootmin="0" x="5.203" z="-4.594" a="275.489" y="-0.688"/>
+	</group>
+	<!-- eventspawn <pos x="4075.9299" z="5563.0205" a="0" y="3.0779" group="Ambulance_PortLand"/> -->
+	<group name="Ambulance_PortLand">
+		<child type="DB_Static_Ambulance_Wreck" deloot="0" lootmax="7" lootmin="5" x="0.000" z="0.000" a="89.177" y="0.000"/>
+		<child type="Land_DB_DeadBodyCovered" deloot="0" lootmax="0" lootmin="0" x="6.827" z="0.624" a="2.951" y="-1.188"/>
+		<child type="Land_Wreck_hb01_aban1_police_DE" deloot="0" lootmax="3" lootmin="2" x="13.886" z="0.680" a="68.610" y="-0.266"/>
+		<child type="StaticObj_Furniture_hospital_transport_bed" deloot="0" lootmax="0" lootmin="0" x="6.416" z="-0.790" a="266.761" y="-1.328"/>
+		<child type="StaticObj_Roadblock_Wood_Small" deloot="0" lootmax="0" lootmin="0" x="15.981" z="-1.106" a="137.950" y="-0.688"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="18.521" z="1.063" a="137.950" y="-0.772"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="-8.856" z="1.496" a="47.951" y="-0.772"/>
+		<child type="StaticObj_Roadblock_Wood_Small" deloot="0" lootmax="0" lootmin="0" x="-6.901" z="-0.737" a="47.951" y="-0.688"/>
+	</group>
+	<!-- eventspawn <pos x="4057.3088" z="5558.9609" a="0" y="3.0780" group="Ambulance_Portland_01"/> -->
+	<group name="Ambulance_Portland_01">
+		<child type="DB_Static_Ambulance_Wreck" deloot="0" lootmax="7" lootmin="5" x="0.000" z="0.000" a="270.151" y="0.000"/>
+		<child type="StaticObj_Roadblock_Wood_Small" deloot="0" lootmax="0" lootmin="0" x="-10.968" z="1.410" a="135.778" y="-0.688"/>
+		<child type="StaticObj_Roadblock_Wood_Small" deloot="0" lootmax="0" lootmin="0" x="19.252" z="1.251" a="58.299" y="-0.688"/>
+		<child type="Land_Wreck_hb01_aban1_police_DE" deloot="0" lootmax="3" lootmin="2" x="-17.332" z="0.174" a="79.949" y="-0.266"/>
+		<child type="StaticObj_Furniture_hospital_transport_bed" deloot="0" lootmax="0" lootmin="0" x="-8.202" z="-1.186" a="73.458" y="-1.328"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="-13.308" z="-0.615" a="319.392" y="-0.772"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="20.740" z="-0.882" a="234.868" y="-0.772"/>
+		<child type="StaticObj_Forest_HumanSkeleton" deloot="0" lootmax="0" lootmin="0" x="-9.625" z="-0.355" a="221.207" y="-1.288"/>
+		<child type="Land_Wreck_Volha_Grey" deloot="0" lootmax="3" lootmin="2" x="13.997" z="-0.023" a="298.309" y="-0.591"/>
+		<child type="Land_Wreck_Lada_Green" deloot="0" lootmax="3" lootmin="2" x="10.320" z="-0.328" a="258.447" y="-0.666"/>
+	</group>
+	<!-- eventspawn <pos x="6553.7255" z="8599.3818" a="0" y="4.3280" group="Ambulance_AirFieldCity_01"/> -->
+	<group name="Ambulance_AirFieldCity_01">
+		<child type="DB_Static_Ambulance_Wreck" deloot="0" lootmax="7" lootmin="5" x="0.000" z="0.000" a="273.483" y="0.000"/>
+		<child type="Land_DB_DeadBodyCovered" deloot="0" lootmax="0" lootmin="0" x="-5.643" z="1.489" a="142.012" y="-1.178"/>
+		<child type="Land_Wreck_offroad02_aban2" deloot="0" lootmax="3" lootmin="2" x="-12.060" z="0.866" a="35.034" y="0.312"/>
+		<child type="StaticObj_Furniture_hospital_transport_bed" deloot="0" lootmax="0" lootmin="0" x="-7.188" z="-0.617" a="287.050" y="-1.328"/>
+		<child type="Land_DB_DeadBodyCovered" deloot="0" lootmax="0" lootmin="0" x="-7.896" z="2.288" a="87.926" y="-1.178"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="4.427" z="2.501" a="236.921" y="-0.772"/>
+		<child type="StaticObj_Roadblock_Wood_Small" deloot="0" lootmax="0" lootmin="0" x="5.827" z="0.054" a="91.922" y="-0.688"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="4.414" z="-2.257" a="125.271" y="-0.772"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="-15.427" z="-2.274" a="57.208" y="-0.772"/>
+		<child type="StaticObj_Roadblock_Wood_Small" deloot="0" lootmax="0" lootmin="0" x="-16.813" z="0.185" a="272.210" y="-0.688"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="-15.388" z="2.487" a="305.558" y="-0.772"/>
+	</group>
+	<!-- eventspawn <pos x="6095.9599" z="5214.1850" a="0" y="8.9426" group="Ambulance_Sandford"/> -->
+	<group name="Ambulance_Sandford">
+		<child type="DB_Static_Ambulance_Wreck" deloot="0" lootmax="7" lootmin="5" x="0.000" z="0.000" a="273.483" y="0.000"/>
+		<child type="Land_DB_DeadBodyCovered" deloot="0" lootmax="0" lootmin="0" x="-6.972" z="0.913" a="142.012" y="-1.178"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="-6.503" z="2.644" a="180.331" y="-0.772"/>
+		<child type="StaticObj_Furniture_hospital_transport_bed" deloot="0" lootmax="0" lootmin="0" x="-6.103" z="-0.341" a="255.021" y="-1.328"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="-6.667" z="-2.234" a="180.331" y="-0.772"/>
+		<child type="Land_Wreck_hb01_aban1_police" deloot="0" lootmax="3" lootmin="2" x="-11.344" z="0.713" a="44.849" y="-0.266"/>
+		<child type="StaticObj_Roadblock_Wood_Small" deloot="0" lootmax="0" lootmin="0" x="-16.285" z="-1.405" a="124.784" y="-0.688"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="-14.647" z="1.083" a="305.558" y="-0.772"/>
+		<child type="StaticObj_Roadblock_Wood_Small" deloot="0" lootmax="0" lootmin="0" x="5.361" z="2.411" a="273.285" y="-0.688"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="5.263" z="-0.566" a="94.060" y="-0.772"/>
+	</group>
+	<!-- eventspawn <pos x="5722.6586" z="3134.2746" a="0" y="104.2595" group="Ambulance_CliffsideBay"/> -->
+	<group name="Ambulance_CliffsideBay">
+		<child type="DB_Static_Ambulance_Wreck" deloot="0" lootmax="7" lootmin="5" x="0.000" z="0.000" a="16.849" y="0.000"/>
+		<child type="Land_DB_DeadBodyCovered" deloot="0" lootmax="0" lootmin="0" x="2.099" z="6.752" a="245.377" y="-1.178"/>
+		<child type="StaticObj_Furniture_hospital_transport_bed" deloot="0" lootmax="0" lootmin="0" x="0.678" z="6.198" a="358.387" y="-1.328"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="-2.667" z="6.182" a="264.811" y="-0.772"/>
+		<child type="Land_Wreck_hb01_aban1_police" deloot="0" lootmax="3" lootmin="2" x="5.635" z="2.500" a="43.746" y="-0.266"/>
+		<child type="StaticObj_Roadblock_Wood_Small" deloot="0" lootmax="0" lootmin="0" x="7.702" z="0.224" a="117.746" y="-0.688"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="9.433" z="2.961" a="303.729" y="-1.328"/>
+	</group>
+	<!-- eventspawn <pos x="4349.3393" z="3873.8115" a="0" y="153.4180" group="Ambulance_GrimeHaven_02"/> -->
+	<group name="Ambulance_GrimeHaven_02">
+		<child type="DB_Static_Ambulance_Wreck" deloot="0" lootmax="7" lootmin="5" x="0.000" z="0.000" a="140.114" y="0.000"/>
+		<child type="Land_DB_DeadBodyCovered" deloot="0" lootmax="0" lootmin="0" x="5.111" z="-5.362" a="231.482" y="-1.178"/>
+		<child type="StaticObj_Furniture_hospital_transport_bed" deloot="0" lootmax="0" lootmin="0" x="3.867" z="-6.240" a="344.491" y="-1.328"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="11.362" z="-10.303" a="324.326" y="-0.772"/>
+		<child type="Land_Wreck_hb01_aban1_police" deloot="0" lootmax="3" lootmin="2" x="9.002" z="-8.323" a="55.975" y="-0.266"/>
+		<child type="StaticObj_Roadblock_Wood_Small" deloot="0" lootmax="0" lootmin="0" x="9.179" z="-11.794" a="150.271" y="-0.688"/>
+	</group>
+	<!-- eventspawn <pos x="4119.7143" z="4043.9560" a="0" y="153.4179" group="Ambulance_GrimeHaven"/> -->
+	<group name="Ambulance_GrimeHaven">
+		<child type="DB_Static_Ambulance_Wreck" deloot="0" lootmax="7" lootmin="5" x="0.000" z="0.000" a="302.921" y="0.000"/>
+		<child type="Land_DB_DeadBodyCovered" deloot="0" lootmax="0" lootmin="0" x="-6.660" z="4.298" a="231.483" y="-1.188"/>
+		<child type="StaticObj_Furniture_hospital_transport_bed" deloot="0" lootmax="0" lootmin="0" x="-4.376" z="3.375" a="171.384" y="-1.328"/>
+		<child type="StaticObj_Roadblock_Wood_Small" deloot="0" lootmax="0" lootmin="0" x="4.302" z="-1.935" a="275.326" y="-0.688"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="-9.840" z="5.003" a="265.379" y="-0.772"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="-6.697" z="-0.204" a="213.590" y="-0.772"/>
+		<child type="Land_Wreck_hb01_aban1_police" deloot="0" lootmax="3" lootmin="2" x="1.133" z="5.445" a="336.607" y="-0.266"/>
+		<child type="Land_Wreck_hb01_aban1_police" deloot="0" lootmax="3" lootmin="2" x="-11.911" z="0.235" a="273.997" y="-0.266"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="-2.445" z="7.122" a="70.993" y="-0.772"/>
+	</group>
+	<!-- eventspawn <pos x="2855.3369" z="4801.3540" a="0" y="134.7260" group="Ambulance_OutspotWestov"/> -->
+	<group name="Ambulance_OutspotWestov">
+		<child type="DB_Static_Ambulance_Wreck" deloot="0" lootmax="7" lootmin="5" x="0.000" z="0.000" a="228.424" y="0.000"/>
+		<child type="Land_DB_DeadBodyCovered" deloot="0" lootmax="0" lootmin="0" x="-2.184" z="-5.749" a="72.689" y="-1.188"/>
+		<child type="StaticObj_Furniture_hospital_transport_bed" deloot="0" lootmax="0" lootmin="0" x="-3.979" z="-4.062" a="12.590" y="-1.328"/>
+		<child type="StaticObj_Roadblock_Wood_Small" deloot="0" lootmax="0" lootmin="0" x="3.356" z="3.381" a="228.650" y="-0.688"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="-5.738" z="-2.550" a="300.957" y="-0.772"/>
+		<child type="Land_Wreck_offroad02_aban2" deloot="0" lootmax="3" lootmin="2" x="-1.547" z="-10.445" a="108.642" y="0.312"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="-5.852" z="-7.103" a="70.993" y="-0.772"/>
+		<child type="StaticObj_Roadblock_Wood_Small" deloot="0" lootmax="0" lootmin="0" x="0.889" z="-14.087" a="341.426" y="-0.688"/>
+	</group>
+	<!-- eventspawn <pos x="3114.8117" z="5986.9082" a="0" y="33.6006" group="Ambulance_AirStrip"/> -->
+	<group name="Ambulance_AirStrip">
+		<child type="DB_Static_Ambulance_Wreck" deloot="0" lootmax="7" lootmin="5" x="0.000" z="0.000" a="182.049" y="0.000"/>
+		<child type="Land_DB_DeadBodyCovered" deloot="0" lootmax="0" lootmin="0" x="0.281" z="-6.848" a="95.822" y="-1.188"/>
+		<child type="StaticObj_Furniture_hospital_transport_bed" deloot="0" lootmax="0" lootmin="0" x="-1.108" z="-6.370" a="359.632" y="-1.328"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="0.537" z="5.590" a="183.077" y="-0.772"/>
+		<child type="StaticObj_Roadblock_Wood_Small" deloot="0" lootmax="0" lootmin="0" x="-2.578" z="5.852" a="186.661" y="-0.688"/>
+		<child type="Land_Wreck_offroad02_aban2" deloot="0" lootmax="3" lootmin="2" x="-0.634" z="-10.604" a="108.642" y="0.312"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="-1.844" z="-14.143" a="183.077" y="-0.772"/>
+		<child type="StaticObj_Roadblock_Wood_Small" deloot="0" lootmax="0" lootmin="0" x="1.105" z="-14.245" a="2.662" y="-0.688"/>
+	</group>
+	<!-- eventspawn <pos x="3101.4785" z="5912.8300" a="0" y="34.6337" group="Ambulance_Airstrip_01"/> -->
+	<group name="Ambulance_Airstrip_01">
+		<child type="DB_Static_Ambulance_Wreck" deloot="0" lootmax="7" lootmin="5" x="0.000" z="0.000" a="179.351" y="0.000"/>
+		<child type="StaticObj_Roadblock_Wood_Small" deloot="0" lootmax="0" lootmin="0" x="-1.648" z="-10.208" a="44.980" y="-0.262"/>
+		<child type="StaticObj_Roadblock_Wood_Small" deloot="0" lootmax="0" lootmin="0" x="-1.950" z="16.816" a="327.500" y="-1.302"/>
+		<child type="Land_Wreck_hb01_aban1_police_DE" deloot="0" lootmax="3" lootmin="2" x="-0.461" z="-16.344" a="349.151" y="0.265"/>
+		<child type="StaticObj_Furniture_hospital_transport_bed" deloot="0" lootmax="0" lootmin="0" x="0.693" z="-6.937" a="342.660" y="-1.033"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="0.467" z="-12.305" a="228.593" y="-0.261"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="0.317" z="18.430" a="144.069" y="-1.438"/>
+		<child type="StaticObj_Forest_HumanSkeleton" deloot="0" lootmax="0" lootmin="0" x="-0.194" z="-8.169" a="130.408" y="-0.953"/>
+		<child type="Land_Wreck_Volha_Grey" deloot="0" lootmax="3" lootmin="2" x="-0.505" z="13.465" a="207.510" y="-1.116"/>
+		<child type="Land_Wreck_Lada_Green" deloot="0" lootmax="3" lootmin="2" x="-0.088" z="9.809" a="167.647" y="-1.091"/>
+	</group>
+	<!-- eventspawn <pos x="3002.2402" z="6118.3457" a="0" y="33.6006" group="Ambulance_Airstrip_02"/> -->
+	<group name="Ambulance_Airstrip_02">
+		<child type="DB_Static_Ambulance_Wreck" deloot="0" lootmax="7" lootmin="5" x="0.000" z="0.000" a="0.852" y="0.000"/>
+		<child type="StaticObj_Roadblock_Wood_Small" deloot="0" lootmax="0" lootmin="0" x="1.917" z="10.162" a="226.481" y="-0.262"/>
+		<child type="StaticObj_Roadblock_Wood_Small" deloot="0" lootmax="0" lootmin="0" x="1.508" z="-16.861" a="149.001" y="-1.302"/>
+		<child type="Land_Wreck_hb01_aban1_police_DE" deloot="0" lootmax="3" lootmin="2" x="0.888" z="16.324" a="170.651" y="0.265"/>
+		<child type="StaticObj_Furniture_hospital_transport_bed" deloot="0" lootmax="0" lootmin="0" x="-0.511" z="6.950" a="164.160" y="-1.033"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="-0.145" z="12.313" a="50.094" y="-0.261"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="-0.801" z="-18.416" a="325.569" y="-1.438"/>
+		<child type="StaticObj_Forest_HumanSkeleton" deloot="0" lootmax="0" lootmin="0" x="0.610" z="8.154" a="311.908" y="-1.197"/>
+		<child type="Land_Wreck_Volha_Grey" deloot="0" lootmax="3" lootmin="2" x="0.153" z="-13.475" a="29.011" y="-1.116"/>
+		<child type="Land_Wreck_Lada_Green" deloot="0" lootmax="3" lootmin="2" x="-0.170" z="-9.809" a="349.148" y="-1.091"/>
+	</group>
+	<!-- eventspawn <pos x="3214.8654" z="5173.6992" a="0" y="83.7645" group="Ambulance_Airhaven"/> -->
+	<group name="Ambulance_Airhaven">
+		<child type="DB_Static_Ambulance_Wreck" deloot="0" lootmax="7" lootmin="5" x="0.000" z="0.000" a="197.749" y="0.000"/>
+		<child type="Land_DB_DeadBodyCovered" deloot="0" lootmax="0" lootmin="0" x="-1.582" z="-6.669" a="111.522" y="-1.188"/>
+		<child type="Land_Wreck_hb01_aban1_police_DE" deloot="0" lootmax="3" lootmin="2" x="-6.964" z="-2.896" a="198.232" y="-0.274"/>
+		<child type="StaticObj_Furniture_hospital_transport_bed" deloot="0" lootmax="0" lootmin="0" x="-2.791" z="-5.834" a="15.332" y="-1.328"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="-4.353" z="1.290" a="334.217" y="-0.778"/>
+		<child type="StaticObj_Roadblock_Wood_Long" deloot="0" lootmax="0" lootmin="0" x="-7.883" z="-10.186" a="263.987" y="-0.779"/>
+		<child type="StaticObj_Roadblock_Wood_Small" deloot="0" lootmax="0" lootmin="0" x="-8.321" z="-6.783" a="269.498" y="-0.696"/>
+	</group>
+</eventgroupdef>
