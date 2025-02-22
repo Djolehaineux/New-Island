@@ -19,7 +19,7 @@ class Missions
 };
 ```
 
-### FICHIER FOURNI (à venir)
+### FICHIER FOURNI
 - [Central Economie](https://github.com/Djolehaineux/New-Island/tree/main/CE_NewIsland)
 - [MPMissions](https://github.com/Djolehaineux/New-Island/tree/main/dayzOffline.NewIsland)
 ---
