@@ -20,8 +20,7 @@ class Missions
 ```
 
 ### FICHIER FOURNI (à venir)
-- 
-
+- [Central Economie](https://github.com/Djolehaineux/New-Island/tree/main/CE_NewIsland)
 ---
 
 [retourner a la collections](https://github.com/Djolehaineux/DJO-mods-collection)
