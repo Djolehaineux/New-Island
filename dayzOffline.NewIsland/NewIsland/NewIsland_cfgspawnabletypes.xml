@@ -20,190 +20,190 @@
 	<!-- PickUp -->
 	<type name="PickUp_85_Black">
 		<attachments chance="1.00">
-			<item name="PickUp_85Wheel" chance="1.00" />
+			<item name="PickUp_85Wheel" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PickUp_85Wheel" chance="1.00" />
+			<item name="PickUp_85Wheel" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PickUp_85Wheel" chance="1.00" />
+			<item name="PickUp_85Wheel" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PickUp_85Wheel" chance="1.00" />
+			<item name="PickUp_85Wheel" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PickUp_85Wheel" chance="1.00" />
+			<item name="PickUp_85Wheel" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="CarRadiator" chance="1.00" />
+			<item name="CarRadiator" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="CarBattery" chance="1.00" />
+			<item name="CarBattery" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="SparkPlug" chance="1.00" />
+			<item name="SparkPlug" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="1.00" />
+			<item name="HeadlightH7" chance="0.10" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="1.00" />
+			<item name="HeadlightH7" chance="0.10" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PickUp_85_Hood" chance="1.00" />
+			<item name="PickUp_85_Hood" chance="0.30" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PickUp_85_Trunk" chance="1.00" />
+			<item name="PickUp_85_Trunk" chance="0.30" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PickUp_85_DriverDoor" chance="1.00" />
+			<item name="PickUp_85_DriverDoor" chance="0.50" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PickUp_85_CodriverDoor" chance="1.00" />
+			<item name="PickUp_85_CodriverDoor" chance="0.50" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="CanisterGasoline" chance="0.25" />
+			<item name="CanisterGasoline" chance="0.60" />
 		</attachments>
 	</type>
 	<type name="PickUp_85_Blue">
 		<attachments chance="1.00">
-			<item name="PickUp_85Wheel" chance="1.00" />
+			<item name="PickUp_85Wheel" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PickUp_85Wheel" chance="1.00" />
+			<item name="PickUp_85Wheel" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PickUp_85Wheel" chance="1.00" />
+			<item name="PickUp_85Wheel" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PickUp_85Wheel" chance="1.00" />
+			<item name="PickUp_85Wheel" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PickUp_85Wheel" chance="1.00" />
+			<item name="PickUp_85Wheel" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="CarRadiator" chance="1.00" />
+			<item name="CarRadiator" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="CarBattery" chance="1.00" />
+			<item name="CarBattery" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="SparkPlug" chance="1.00" />
+			<item name="SparkPlug" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="1.00" />
+			<item name="HeadlightH7" chance="0.10" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="1.00" />
+			<item name="HeadlightH7" chance="0.10" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PickUp_85_Hood_Blue" chance="1.00" />
+			<item name="PickUp_85_Hood_Blue" chance="0.30" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PickUp_85_Trunk_Blue" chance="1.00" />
+			<item name="PickUp_85_Trunk_Blue" chance="0.30" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PickUp_85_DriverDoor_Blue" chance="1.00" />
+			<item name="PickUp_85_DriverDoor_Blue" chance="0.50" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PickUp_85_CodriverDoor_Blue" chance="1.00" />
+			<item name="PickUp_85_CodriverDoor_Blue" chance="0.50" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="CanisterGasoline" chance="0.25" />
+			<item name="CanisterGasoline" chance="0.60" />
 		</attachments>
 	</type>
 	<type name="PickUp_85_Green">
 		<attachments chance="1.00">
-			<item name="PickUp_85Wheel" chance="1.00" />
+			<item name="PickUp_85Wheel" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PickUp_85Wheel" chance="1.00" />
+			<item name="PickUp_85Wheel" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PickUp_85Wheel" chance="1.00" />
+			<item name="PickUp_85Wheel" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PickUp_85Wheel" chance="1.00" />
+			<item name="PickUp_85Wheel" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PickUp_85Wheel" chance="1.00" />
+			<item name="PickUp_85Wheel" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="CarRadiator" chance="1.00" />
+			<item name="CarRadiator" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="CarBattery" chance="1.00" />
+			<item name="CarBattery" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="SparkPlug" chance="1.00" />
+			<item name="SparkPlug" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="1.00" />
+			<item name="HeadlightH7" chance="0.10" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="1.00" />
+			<item name="HeadlightH7" chance="0.10" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PickUp_85_Hood_Green" chance="1.00" />
+			<item name="PickUp_85_Hood_Green" chance="0.30" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PickUp_85_Trunk_Green" chance="1.00" />
+			<item name="PickUp_85_Trunk_Green" chance="0.30" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PickUp_85_DriverDoor_Green" chance="1.00" />
+			<item name="PickUp_85_DriverDoor_Green" chance="0.50" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PickUp_85_CodriverDoor_Green" chance="1.00" />
+			<item name="PickUp_85_CodriverDoor_Green" chance="0.50" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="CanisterGasoline" chance="0.25" />
+			<item name="CanisterGasoline" chance="0.60" />
 		</attachments>
 	</type>
 	<type name="PickUp_85_Red">
 		<attachments chance="1.00">
-			<item name="PickUp_85Wheel" chance="1.00" />
+			<item name="PickUp_85Wheel" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PickUp_85Wheel" chance="1.00" />
+			<item name="PickUp_85Wheel" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PickUp_85Wheel" chance="1.00" />
+			<item name="PickUp_85Wheel" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PickUp_85Wheel" chance="1.00" />
+			<item name="PickUp_85Wheel" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PickUp_85Wheel" chance="1.00" />
+			<item name="PickUp_85Wheel" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="CarRadiator" chance="1.00" />
+			<item name="CarRadiator" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="CarBattery" chance="1.00" />
+			<item name="CarBattery" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="SparkPlug" chance="1.00" />
+			<item name="SparkPlug" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="1.00" />
+			<item name="HeadlightH7" chance="0.10" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="1.00" />
+			<item name="HeadlightH7" chance="0.10" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PickUp_85_Hood_Red" chance="1.00" />
+			<item name="PickUp_85_Hood_Red" chance="0.30" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PickUp_85_Trunk_Red" chance="1.00" />
+			<item name="PickUp_85_Trunk_Red" chance="0.30" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PickUp_85_DriverDoor_Red" chance="1.00" />
+			<item name="PickUp_85_DriverDoor_Red" chance="0.50" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="PickUp_85_CodriverDoor_Red" chance="1.00" />
+			<item name="PickUp_85_CodriverDoor_Red" chance="0.50" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="CanisterGasoline" chance="0.25" />
+			<item name="CanisterGasoline" chance="0.60" />
 		</attachments>
 	</type>
 </spawnabletypes>
